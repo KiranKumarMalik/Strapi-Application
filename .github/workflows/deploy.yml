@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: ip-172-31-33-239
 
     steps:
       - name: Checkout code
